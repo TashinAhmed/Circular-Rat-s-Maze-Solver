@@ -8,7 +8,7 @@ Both program tested on TURBO C++
 game interface 
 
 
-https://user-images.githubusercontent.com/25844897/59145714-96bfc600-8a09-11e9-8ef0-678577dc89db.png
+![alt text](https://user-images.githubusercontent.com/25844897/59145714-96bfc600-8a09-11e9-8ef0-678577dc89db.png)
 
 https://user-images.githubusercontent.com/25844897/59145715-96bfc600-8a09-11e9-9680-bb797faa58be.png
 
