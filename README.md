@@ -13,7 +13,7 @@ game interface
 ![alt text](https://user-images.githubusercontent.com/25844897/59145715-96bfc600-8a09-11e9-9680-bb797faa58be.png)
 
 
-#plan.cpp
+# plan.cpp
 
 automatic solvers opening
 
