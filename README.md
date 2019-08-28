@@ -3,7 +3,7 @@ Automatic maze solver plus a game to solve maze puzzle
 
 Both program tested on TURBO C++ 
 
-#maze.cpp 
+# maze.cpp 
 
 game interface 
 
